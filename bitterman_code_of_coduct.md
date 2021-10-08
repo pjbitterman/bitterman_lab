@@ -33,6 +33,8 @@ you get it wrong, give a quick apology and get it right the next time.
 To report an issue please contact Patrick Bitterman. All communication will be treated as confidential.
 
 
+### Attribution
+
 Material in this code of conduct is derived from The Adair Lab (https://adairlab.weebly.com/uploads/1/5/6/1/15619646/adair_lab_code_of_conduct2.pdf), Bahlai Lab Project Management by Dr. Christie Bahlai & lab team (https://github.com/BahlaiLab/Policies/blob/master/Code_of_conduct.md), Whitaker Lab Project Management by Dr. Kirstie Whitaker and Lab team (https://github.com/WhitakerLab/WhitakerLabProjectManagement) and from the DIB Lab (http://ivory.idyll.org/lab/coc.html) Code of Conduct by Dr. Titus Brown.
     
 
